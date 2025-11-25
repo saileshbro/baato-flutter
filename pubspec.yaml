@@ -1,6 +1,6 @@
 name: baato_api
 description: Flutter package to consume Baato APIs. You can search for places, reverse geo code and request for directions for several modes of transportation, including bike, foot and car.
-version: 2.0.1
+version: 2.0.2
 homepage: https://github.com/baato/baato-flutter.git
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
 
   dio: ^5.9.0
   crypto: ^3.0.6
-  package_info_plus: ^8.3.0
+  package_info_plus: ^9.0.0
 
 dev_dependencies:
   flutter_test:

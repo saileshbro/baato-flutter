@@ -54,3 +54,6 @@
 ## [2.0.1]
 - Upgraded `dio` to the latest version
 - Added support for `appId` in API configuration
+
+## [2.0.2]
+- Upgraded `package_info_plus` to ^9.0.0 to stay compatible with the latest Flutter stable channel
