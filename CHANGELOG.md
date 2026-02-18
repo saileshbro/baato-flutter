@@ -54,3 +54,10 @@
 ## [2.0.1]
 - Upgraded `dio` to the latest version
 - Added support for `appId` in API configuration
+
+## [2.0.2]
+- Upgraded `package_info_plus` from ^8.3.0 to ^9.0.0 for compatibility with Flutter 3.38+
+
+## [3.0.0]
+### **BREAKING** - Fork version bump to avoid upstream API conflicts
+- Upgraded `package_info_plus` from ^8.3.0 to ^9.0.0 for compatibility with latest Flutter
